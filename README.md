@@ -7,7 +7,7 @@ this dataset focuses on depression disease.
 
 • The Data library includes essential functions for collecting individual genotypes from Opensnp, preprocessing PGC data, and handling the data. Its main purpose is to prepare datasets.
 
-• The Daraengineering library contains functions such as encode functionthat performs label
+• The Daraengineering library contains functions such as encodefunction that performs label
 encoding and PCA on the input data.
 
 • The PRS library contains functions for calculating the polygenic risk scores.
